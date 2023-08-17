@@ -1,7 +1,7 @@
 
 # Suggest Sphere - Product Recommendation System with Brain.js
 
-Sphere is a simple demonstration showcasing how to create a product recommendation system using Brain.js, a JavaScript library for training neural networks. 
+Suggest-Sphere is a simple demonstration showcasing how to create a product recommendation system using Brain.js, a JavaScript library for training neural networks. 
 
 ## Installation
 
@@ -35,7 +35,7 @@ Sphere is a simple demonstration showcasing how to create a product recommendati
 
 ## Demo
 
-Explore a live working demo of the Sphere neural network at [http://preese.com/recommendation-demo](http://preese.com/recommendation-demo).
+Explore a live working demo of the Suggest-Sphere neural network at [Click here](https://youtu.be/unldSgMaSK4).
 
 ## More Information
 
