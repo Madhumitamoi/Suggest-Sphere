@@ -1,4 +1,4 @@
-# recommendations
+# Suggest Spehere
 
 This is an extremely simple demonstration of how to create a product recommendation system with [Brain.js](https://github.com/BrainJS/brain.js).
 
